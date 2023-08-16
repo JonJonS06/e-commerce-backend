@@ -2,11 +2,11 @@
   "name": "e-commerce-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node seeds/index.js",
-    "watch": "nodemon server.js",
+    "seed": "node Develop/seeds/index.js",
+    "watch": "node server.js",
     "start": "node server.js"
   },
   "keywords": [],
