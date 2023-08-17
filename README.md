@@ -33,6 +33,8 @@ Get All Categories Route ![image](Develop/Assets/get-categories-screenshot.png) 
 
 ## Walkthrough Video
 
+[Walkthrough Demonstration on YouTube](https://youtu.be/EIAu0jYkzDs)
+
 ## Installation
 
 First you will need to verify that you have Node.js and MySQL installed on your machine.
